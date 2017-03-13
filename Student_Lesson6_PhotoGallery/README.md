@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+03/10/2017
 
 ### Student Name:  
-(First and Last Name)
+Humphrey Minott
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Created a responsive photo gallery application
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Create a new element node using the createElement() method of the Document object
+2. How to  use the cloneNode() method of the Document object to duplicate an existing node
+3. Create responsive buttons, like left arrow and right arrow
