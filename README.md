@@ -13,7 +13,7 @@ Humphrey Minott
 Created a responsive photo gallery application
 
 ### View Project:
-
+https://humphreyminott.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
 1. Create a new element node using the createElement() method of the Document object
